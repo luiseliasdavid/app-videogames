@@ -1,0 +1,16 @@
+.container{
+    margin:8px 0;
+
+}
+
+.btn{
+    background: rgb(34, 108, 212);
+    color: #FFFFFF;
+    margin-bottom: 5px;
+    border: 1px solid white;
+    padding: 1px 3px;
+}
+
+.btn:hover{
+    color: rgb(98, 46, 182)
+}
