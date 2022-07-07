@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app-videogames/static/css/main.82395222.chunk.css",
+    "main.js": "/app-videogames/static/js/main.bf11d46c.chunk.js",
+    "main.js.map": "/app-videogames/static/js/main.bf11d46c.chunk.js.map",
+    "runtime-main.js": "/app-videogames/static/js/runtime-main.b80d435e.js",
+    "runtime-main.js.map": "/app-videogames/static/js/runtime-main.b80d435e.js.map",
+    "static/js/2.3439fef0.chunk.js": "/app-videogames/static/js/2.3439fef0.chunk.js",
+    "static/js/2.3439fef0.chunk.js.map": "/app-videogames/static/js/2.3439fef0.chunk.js.map",
+    "static/js/3.3a227f4c.chunk.js": "/app-videogames/static/js/3.3a227f4c.chunk.js",
+    "static/js/3.3a227f4c.chunk.js.map": "/app-videogames/static/js/3.3a227f4c.chunk.js.map",
+    "index.html": "/app-videogames/index.html",
+    "static/css/main.82395222.chunk.css.map": "/app-videogames/static/css/main.82395222.chunk.css.map",
+    "static/js/2.3439fef0.chunk.js.LICENSE.txt": "/app-videogames/static/js/2.3439fef0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b80d435e.js",
+    "static/js/2.3439fef0.chunk.js",
+    "static/css/main.82395222.chunk.css",
+    "static/js/main.bf11d46c.chunk.js"
+  ]
+}
