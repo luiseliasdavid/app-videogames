@@ -26,8 +26,8 @@ export const GET_LOCAL_VIDEOGAMES= 'GET_LOCAL_VIDEOGAMES'
 export function getVideoGames () {
     return async function(dispatch){
         try {
-       const json = await axios.get('https://project-videogame.herokuapp.com//videogames');
-       const json2 = await axios.get('https://project-videogame.herokuapp.com//genres');
+       const json = await axios.get('https://project-videogame.herokuapp.com/videogames');
+       const json2 = await axios.get('https://project-videogame.herokuapp.com/genres');
       //console.log('hola',json.data)
       const apiVideogames= json.data?.filter((el)=> !el.createdInDb)
       
